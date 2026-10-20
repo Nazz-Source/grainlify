@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "fix/issue-1988-pin-the-boundary-behaviour-of-is-token-allowed",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1988-pin-the-boundary-behaviour-of-is-token-allowed": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "fix/issue-1988-pin-the-boundary-behaviour-of-is-token-allowed",
+    "origin"
+  ]
+}
